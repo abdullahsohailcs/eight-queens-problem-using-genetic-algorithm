@@ -10,9 +10,9 @@ is able to capture any other using the standard chess queen’s moves. The queen
 no two queens would be able to attack each other. Thus, a solution requires that no two queens share the same row,
 column, or diagonal.
 
-Representation: [2 4 6 8 3 1 7 5]
-Population Generation: Generate 4 individuals randomly
-Parent Selection: Using Roulette Wheel
-Cross Over and Mutation: Random
-Evaluation Function: Number of non attacking pairs
+Representation: [2 4 6 8 3 1 7 5] </br>
+Population Generation: Generate 4 individuals randomly</br>
+Parent Selection: Using Roulette Wheel</br>
+Cross Over and Mutation: Random</br>
+Evaluation Function: Number of non attacking pairs</br>
 </p>
